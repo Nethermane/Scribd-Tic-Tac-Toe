@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Scribbed</string>
+    <string name="tic_tac_toe_win">%s wins</string>
+    <string name="tic_tac_toe_draw">Draw</string>
+    <string name="tic_tac_toe_turn_label">%s\'s turn</string>
+    <string name="tic_tac_toe_reset">RESET</string>
+</resources>
